@@ -86,5 +86,4 @@ README.md
 - Projects are **end-to-end examples** of data analysis skills.  
 - All projects include version control via Git/GitLab/GitHub.  
 - Screenshots show dashboards/charts; replace paths with your images.  
-- More advanced projects (Machine Learning, Advanced Python, Tableau) will be added after the Bootcamp.
 
